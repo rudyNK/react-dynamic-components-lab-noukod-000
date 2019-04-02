@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 export default class ColorBox extends Component {
-  
+
   render() {
     let opacity = this.props.opacity;
 
